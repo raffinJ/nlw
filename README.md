@@ -6,6 +6,8 @@
 
 Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
+[🔗 Clique aqui para acessar](https://raffinJ.github.io/nlw-eSports-explorer/)
+
 ## 🛠 Tecnologia 
 - HTML
 - CSS
